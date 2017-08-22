@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: cloudclient02
+Implementation-Version: 1.0.0
+Built-By: my
+Implementation-Vendor-Id: com.ucai.springcloud02
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/cloudclient0
+ 2/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
